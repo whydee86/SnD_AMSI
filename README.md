@@ -12,3 +12,4 @@ nim c -x -f StartCleanPS.nim
 ### credits: ###
 - https://github.com/byt3bl33d3r/OffensiveNim
 - Thank you, Elddy for the idea of patching amsi in that way.
+https://github.com/elddy
